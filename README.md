@@ -1,5 +1,5 @@
 # vityarthi_project_aryan25bce11217
-The name of project Currency converter. This project converts money of one currency to another.
+The name of is project Currency converter. This project converts money of one currency to another.
 
 
  In this project, the concept of python like function, operators, Conditional statement , Loops and many more concepts are used. I had use top down 
