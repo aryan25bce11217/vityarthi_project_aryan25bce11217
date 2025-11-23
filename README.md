@@ -14,7 +14,7 @@ Technologies used:-
 Used as the primary language to develop the currency converter program. Python’s simplicity and powerful libraries made it ideal for implementing logic, functions, loops, and user input handling.
 
 2. Python IDLE
-A code editor or IDE was used to write, run, and test the Python script efficiently.
+A code editor was used to write, run, and test the Python script efficiently.
 
 3. Command Line / Terminal
 Used to execute the Python program and interact with user inputs.
