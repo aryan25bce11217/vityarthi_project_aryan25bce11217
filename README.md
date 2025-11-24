@@ -18,37 +18,30 @@ Technologies used:-
    4. I used Word processors and PDF creation tools to prepare the project report, documentation, and formatting.
 
 
+ Apply concepts learned in the course to design the solution: I had applied most of the concept I learnt during classes. I had used concept of python 
+language like functions, conditional statements ,loops, Boolean value, break statement ,printing statement ,Operator ,Return statement and many 
+more.. 
+ Use appropriate tools, libraries, or programming techniques based on the subject: I had used appropriate tools, libraries or programming 
+techniques based on the subject. In my project no libraries got installed. 
 
+ Follow a structured development process: I had followed structured development process like aiming , planning, coding, testing, documenting. I 
+had first decided what project is about, how this project will overcome real life problem, what is the aim of the project. Secondly, I had planned how 
+this project is going to done ,made algorithm and flowchart before coding process. Then I had started with coding process that was easy part for 
+me because algorithm and flowchart helped me a lot. Now after coding there is a testing part, This project passed testing by showing perfect output 
+as expected. At last I had done documentation. 
 
-Steps to run the project:-
-1. Open the Python File
-Locate and open the currency converter .py file in editor or IDLE, VS Code, PyCharm, etc.
+  Problem definition: A problem is a task defined by its inputs, desired outputs, and constraints, which can be solved with an algorithm, It's often viewed 
+as a function that maps inputs to outputs, and computer science is the study of algorithms that solve these problems, including those that may not 
+have a solution. In this project ,it resolve the problem of converting currency by convert currency from one currency to another by doing 
+two to three clicks. 
 
-2. Run the Program
-Run the script by pressing Run or using the command:
-python Currency-convertor-project.py
+ Requirement analysis: The requirement for this project is zero. You only need any python compiler. That’s it. 
 
-3. Choose the Source Currency
-The program asks you to enter the currency you want to convert from (example:- USD, INR, EUR).
+ Top-Down design: I had used top down design in my project. That is by defining what’s the problem after that by initialising loop variable for while loop 
+then created the body of while loop. Then I had asked user to continue while loop or to exit the program by entering NO. 
 
-4. Choose the Target Currency
-Next, enter the currency you want to convert to.
+Implementation: I had implemented things like  aiming , planning, coding, testing, documenting. I had first decided what project is about, how this project will overcome real life problem, what is the aim of the project. Secondly, I had planned how this project is going to done ,made algorithm and 
+flowchart before coding process. Then I had started with coding process that was easy part for me because algorithm and flowchart helped me a 
+lot. Now after coding there is a testing part, This project passed testing by showing perfect output as expected. At last I had done documentation. 
 
-5. Enter the Amount
-Type the amount of money you want to convert.
-
-6. View the Converted Value
-The program will calculate and display the converted amount based on predefined exchange rates.
-
-
-
-
-Instructions for testing:-
-1. Verify Program Execution
-We can start by running the Python script to ensure the program runs without showing any syntax errors.
-
-2. Test Currency Input
-Enter different valid currency names or codes (example:- INR, USD, EUR) to confirm that the program accepts them correctly.
-
-3. Test Invalid Currency Input
-We can intentionally enter incorrect or unsupported currency names to check whether the program is able to handle errors gracefully and prompts the user correctly.
+Testing and refinement: This project passed testing by showing perfect output as expected so no refinement is required. 
